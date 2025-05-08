@@ -4,7 +4,7 @@ function App() {
 
   return (
     <div>
-     
+      <h1>React-redux tutorial</h1>
     </div>
   )
 }
