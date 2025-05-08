@@ -18,3 +18,6 @@ export default App
 // step3: async action create
 // step4: reducer
 // step5: create store
+//step6:  provider store
+//step7:  use store
+//step8:  dispatch action
